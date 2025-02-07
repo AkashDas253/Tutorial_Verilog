@@ -9,15 +9,13 @@
 - [Instantiation and Hierarchical Design](lessons/instantiation/readme.md)  
 - [Dataflow Modelling](lessons/dataflow_modelling/readme.md)
 - [Behavioral Modelling](lessons/behavioral_modelling/readme.md)
-<!-- 
+- [Gate-Level Modeling](lessons/gate_level_modeling/readme.md) 
 - [Finite State Machines (FSMs)](lessons/fsms/readme.md)  
 - [Testbenches and Simulation](lessons/testbenches/readme.md)  
 - [Timing Analysis and Delays](lessons/timing_analysis/readme.md)  
-- [Memory and Storage](lessons/memory/readme.md)  
-- [Gate-Level Modeling](lessons/gate_level_modeling/readme.md)  
+- [Memory and Storage](lessons/memory/readme.md)   
 - [Generate Constructs](lessons/generate_constructs/readme.md)  
-- [SystemVerilog Enhancements](lessons/systemverilog_enhancements/readme.md)   -->
+- [SystemVerilog Enhancements](lessons/systemverilog_enhancements/readme.md)  
 
 
 
-- 
