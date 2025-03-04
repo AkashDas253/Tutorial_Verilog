@@ -1,4 +1,4 @@
-## Verilog
+## Verilog Topics
 
 - [Basics of Verilog](lessons/basics/readme.md)  
 - [Data Types](lessons/datatypes/readme.md)  
@@ -18,4 +18,5 @@
 - [SystemVerilog Enhancements](lessons/systemverilog_enhancements/readme.md)  
 
 
+## Projects
 
